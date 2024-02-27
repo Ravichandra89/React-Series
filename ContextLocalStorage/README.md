@@ -10,4 +10,5 @@ Currently, two official plugins are available:
 
 ## Todo layout
 
-<img width="1710" alt="Screenshot 2024-02-26 at 11 02 19 PM" src="https://github.com/Ravichandra89/React-Series/assets/134200599/00a56593-4c04-480d-8ba7-08264302137b">
+<img width="822" alt="Screenshot 2024-02-27 at 3 40 12 PM" src="https://github.com/Ravichandra89/React-Series/assets/134200599/667b0819-8c67-4f6f-a642-4652cb3d96a8">
+
